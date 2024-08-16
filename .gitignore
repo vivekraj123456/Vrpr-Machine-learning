@@ -1,0 +1,10 @@
+/Yolo_weights/
+/Videos/
+/Images/
+/DataSet/
+.idea/
+/Train/runs/
+/config/
+__pycache__/
+/Src/output/
+*.pt

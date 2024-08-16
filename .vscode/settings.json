@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "vrpr\\Scripts\\python.exe",
+    "python.analysis.typeCheckingMode": "basic"
+}
